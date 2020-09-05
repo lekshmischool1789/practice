@@ -1,1 +1,1 @@
-This is a test file to check out how it works when I have 2 local clones of the same origin master
+This is a test file to check out how it works when I have 2 local clones of the same remote repo.
